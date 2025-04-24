@@ -8,6 +8,8 @@
   - The determinant is located in the first row and column of the array.
   - The solution for \(dx\), \(dy\), \(dz\) are stored in the top row starting from the second column of the array.
 
+- example:
+
 | D  | dx | dy | dz |
 |----|----|----|----|
 | b  | x  | y  | z  |
