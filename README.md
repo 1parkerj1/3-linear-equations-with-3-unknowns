@@ -1,6 +1,6 @@
 # Kramers rule and rule of Sarrus matrix solver (sorta)
 
-![Alt text]([https://m.media-amazon.com/images/M/MV5BMzI1OWNiNWYtNzA2NS00Mzk5LWE3ZGUtMGNkM2ViODBjYzJiXkEyXkFqcGdeQXVyMzQ3Nzk5MTU@._V1_.jpg](https://superepicfailpedia.fandom.com/wiki/Cosmo_Kramer))
+![Alt text](https://static.wikia.nocookie.net/superepicfailpedia/images/4/40/Kramer053.jpg/revision/latest?cb=20151211091254)
 
 - Had to fit the matrix and its components into a 4x4 array (per teacher request)
   - The coefficients for \(x\), \(y\), and \(z\) are stored in a 3x3 section of the array.
